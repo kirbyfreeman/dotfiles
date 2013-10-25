@@ -2,7 +2,7 @@
 
 # Basic Settings
 #
-fontName         = "Espresso Mono"
+fontName         = "Menlo"
 fontSize         = 14
 
 # Include abbreviated path in window title
